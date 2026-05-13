@@ -8,4 +8,5 @@ export const { GET, POST, PUT } = serve({
     syncUserDeletion,
     syncUserUpdate,
   ],
+   signingKey: process.env.INNGEST_SIGNING_KEY,
 });
