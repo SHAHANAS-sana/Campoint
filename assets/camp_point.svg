@@ -1,0 +1,31 @@
+<svg width="300" height="75" viewBox="0 0 300 75" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- ===== ICON: Open-ring swirl (like original) in orange ===== -->
+
+  <!-- Full orange circle ring -->
+  <circle cx="37" cy="37" r="28" stroke="#FF532E" stroke-width="10" fill="none"/>
+
+  <!-- White wedge to open the ring on the top-right (creates open-C feel) -->
+  <polygon points="37,9 65,9 65,37 55,37 55,20 37,20" fill="white"/>
+
+  <!-- Orange circle cap at the open end top -->
+  <circle cx="50" cy="12" r="6" fill="#FF532E"/>
+
+  <!-- Orange circle cap at the open end bottom (closes the tail) -->
+  <circle cx="62" cy="22" r="6" fill="#FF532E"/>
+
+  <!-- Inner orange dot -->
+  <circle cx="37" cy="37" r="7" fill="#FF532E"/>
+
+  <!-- ===== TEXT ===== -->
+
+  <!-- "Cam" in orange -->
+  <text x="82" y="44" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-weight="800" font-size="29" fill="#FF532E" letter-spacing="0.3">Cam</text>
+
+  <!-- "Point" in dark charcoal -->
+  <text x="140" y="44" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-weight="800" font-size="29" fill="#1F2937" letter-spacing="0.3">Point</text>
+
+  <!-- "TECHNOLOGY LLC" in light gray below -->
+  <text x="83" y="61" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-weight="400" font-size="10.5" fill="#6B7280" letter-spacing="3">TECHNOLOGY LLC</text>
+
+</svg>
